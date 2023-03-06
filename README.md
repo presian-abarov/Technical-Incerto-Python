@@ -1,2 +1,2 @@
 # Technical-Incerto-Python
-Python scripts for Nassim Taleb's Technical Incerto
+My Python scripts and notes for Nassim Taleb's Technical Incerto
