@@ -1,0 +1,862 @@
+﻿DATE,ISBN,Title,Weekly Sales,Weekly Average Rank
+4/21/01,'0596000405,Java Servlet Programming (2nd Edition),227,238
+4/21/01,'0596000278,Java Servlet Programming (2nd Edition),269,258
+4/21/01,'1565922840,Programming Perl (3rd Edition),135,388
+4/21/01,'1565923928,Developing Bioinformatics Computer Skills,481,402
+4/21/01,'1565924274,Programming Perl (3rd Edition),145,408
+4/21/01,'059600110X,Dns and Bind,136,504
+4/21/01,'059600026X,Programming Perl (3rd Edition),135,517
+4/21/01,'0596000464,Javascript : The Definitive Guide (3rd Edition),137,579
+4/21/01,'0596000588,HTML & XHTML : The Definitive Guide,111,694
+4/21/01,'0596000111,XML in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),116,728
+4/21/01,'1565924878,Java Servlet Programming (2nd Edition),141,737
+4/21/01,'1565924940,Learning XML,99,738
+4/21/01,'1565928695,Javascript : The Definitive Guide (3rd Edition),120,764
+4/21/01,'1565928717,Unix in a Nutshell: A Desktop Quick Reference for SVR4 and Solaris 7 (3rd Edition),120,774
+4/21/01,'0596001223,XML in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),93,840
+4/21/01,'1565922824,Javascript : The Definitive Guide (3rd Edition),124,921
+4/21/01,'0596001045,HTML & XHTML : The Definitive Guide,99,956
+4/21/01,'1565922433,"SSH, the Secure Shell : The Definitive Guide",92,1009
+4/21/01,'059600009X,Enterprise Javabeans,82,1039
+4/21/01,'1565927680,Learning XML,95,1054
+4/21/01,'059600060X,Learning XML,104,1110
+4/21/01,'0596000391,Learning Perl (2nd Edition),143,1131
+4/21/01,'0596000162,Learning Perl (2nd Edition),69,1163
+4/21/01,'1565923588,Peer-to-Peer : Harnessing the Power of Disruptive Technologies,107,1192
+4/21/01,'1565924177,iMovie 2 : The Missing Manual,78,1198
+4/21/01,'1565922573,Java in a Nutshell : A Desktop Quick Reference (Java Series) (3rd Edition),84,1206
+4/21/01,'1565925157,Securing Windows NT/2000 Servers for the Internet,80,1239
+4/21/01,'1565923359,"SSH, the Secure Shell : The Definitive Guide",88,1266
+4/21/01,'1565926978,Building Internet Firewalls (2nd Edition),62,1307
+4/21/01,'0596000022,"SSH, the Secure Shell : The Definitive Guide",79,1312
+4/21/01,'1565927524,Understanding the LINUX Kernel: From I/O Ports to Process Management,58,1320
+4/21/01,'0596001215,Understanding the LINUX Kernel: From I/O Ports to Process Management,47,1365
+4/21/01,'0596000669,Enterprise Javabeans,66,1394
+4/21/01,'0596000154,Unix in a Nutshell: A Desktop Quick Reference for SVR4 and Solaris 7 (3rd Edition),81,1405
+4/21/01,'1565925122,XML in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),88,1412
+4/21/01,'1565924649,Securing Windows NT/2000 Servers for the Internet,60,1491
+4/21/01,'0596000685,Java in a Nutshell : A Desktop Quick Reference (Java Series) (3rd Edition),76,1569
+4/21/01,'1565926919,Enterprise Javabeans,85,1605
+4/21/01,'1565923901,Unix in a Nutshell: A Desktop Quick Reference for SVR4 and Solaris 7 (3rd Edition),76,1726
+4/21/01,'1565926161,Cascading Style Sheets: The Definitive Guide,53,1739
+4/21/01,'1565926226,Windows Me: The Missing Manual,56,1747
+4/21/01,'1565928571,iMovie 2 : The Missing Manual,59,1751
+4/21/01,'1565927176,Understanding the LINUX Kernel: From I/O Ports to Process Management,68,1753
+4/21/01,'156592469X,Building Internet Firewalls (2nd Edition),67,1765
+4/21/01,'1565924975,Learning Perl (2nd Edition),69,1778
+4/21/01,'0596000855,Windows Me Annoyances,71,1794
+4/21/01,'1565925114,C# Essentials,60,1816
+4/21/01,'0596000790,Dynamic Html : The Definitive Reference,62,1843
+4/21/01,'0596000197,Peer-to-Peer : Harnessing the Power of Disruptive Technologies,66,1847
+4/21/01,'1565925211,iMovie 2 : The Missing Manual,58,1861
+4/21/01,'1565928709,Oracle Sql : The Essential Reference,48,1880
+4/21/01,'1565926994,Mastering Regular Expressions: Powerful Techniques for Perl and Other Tools (O'Reilly Nutshell),49,1898
+4/21/01,'1565926382,Information Architecture for the World Wide Web,47,1919
+4/21/01,'0596000103,Perl Cookbook,57,1923
+4/21/01,'1565922255,Java in a Nutshell : A Desktop Quick Reference (Java Series) (3rd Edition),63,1941
+4/21/01,'156592746X,Java and XML (O'Reilly Java Tools),52,1950
+4/21/01,'0937175900,Dynamic Html : The Definitive Reference,73,1954
+4/21/01,'1565927206,Information Architecture for the World Wide Web,61,1954
+4/21/01,'1565923545,Windows Me: The Missing Manual,52,1954
+4/21/01,'1565925793,Building Internet Firewalls (2nd Edition),63,1978
+4/21/01,'1565926609,Mastering Regular Expressions: Powerful Techniques for Perl and Other Tools (O'Reilly Nutshell),56,1998
+4/21/01,'1565928431,Cascading Style Sheets: The Definitive Guide,41,2007
+4/21/01,'1565926005,Windows 2000 Pro: The Missing Manual,44,2083
+4/21/01,'1565922921,C# Essentials,44,2195
+4/21/01,'1565924495,Perl Cookbook,64,2224
+4/21/01,'1565924193,Information Architecture for the World Wide Web,44,2234
+4/21/01,'1565923472,Perl Cookbook,52,2239
+4/21/01,'1565923227,Unix for Oracle DBAs Pocket Reference,47,2253
+4/21/01,'0596000375,Dns and Bind,42,2255
+4/21/01,'1565926269,Securing Windows NT/2000 Servers for the Internet,56,2279
+4/21/01,'1565924266,Windows Me: The Missing Manual,52,2346
+4/21/01,'1565927133,Dns and Bind,142,2357
+4/21/01,'1565927443,Dynamic Html : The Definitive Reference,57,2382
+4/21/01,'1565920546,Oracle Sql : The Essential Reference,40,2390
+4/21/01,'1565927044,Oracle Pl/Sql Programming,40,2493
+4/21/01,'1565927060,Oracle Pl/Sql Programming,48,2502
+4/21/01,'0596001088,Peer-to-Peer : Harnessing the Power of Disruptive Technologies,46,2505
+4/21/01,'1565929411,Mac OS 9 : The Missing Manual (Missing Manual),41,2522
+4/21/01,'1565924576,Mastering Regular Expressions: Powerful Techniques for Perl and Other Tools (O'Reilly Nutshell),53,2554
+4/21/01,'1565922603,Java Examples in a Nutshell : A Tutorial Companion to Java in a Nutshell (Nutshell Handbook),54,2570
+4/21/01,'1565922948,Java and XML (O'Reilly Java Tools),46,2589
+4/21/01,'1565926560,VB and VBA in a Nutshell: The Languages,51,2610
+4/21/01,'1565921275,Web Design in a Nutshell : A Desktop Quick Reference,43,2622
+4/21/01,'1565925874,Web Design in a Nutshell : A Desktop Quick Reference,37,2646
+4/21/01,'0596001266,Running Linux (3rd Edition),77,2664
+4/21/01,'1565926420,Java and XML (O'Reilly Java Tools),40,2674
+4/21/01,'0596001487,JavaServer Pages,48,2691
+4/21/01,'0596000030,Java Examples in a Nutshell : A Tutorial Companion to Java in a Nutshell (Nutshell Handbook),39,2695
+4/21/01,'1565920902,Java Examples in a Nutshell : A Tutorial Companion to Java in a Nutshell (Nutshell Handbook),47,2702
+4/21/01,'1565923510,MCSD in a Nutshell: The Visual Basic Exams (VBS Exams 70-175 and 70-176),42,2714
+4/21/01,'0596000251,Windows 2000 Pro: The Missing Manual,57,2750
+4/21/01,'1565924835,Java Performance Tuning (Java Series (O'Reilly)),48,2765
+4/21/01,'1565927508,Essential System Administration (Nutshell Handbook),46,2784
+4/21/01,'1565925394,Cascading Style Sheets: The Definitive Guide,38,2798
+4/21/01,'1565922220,Web Design in a Nutshell : A Desktop Quick Reference,49,2863
+4/21/01,'1565927095,Running Linux (3rd Edition),35,2872
+4/21/01,'156592567X,Dns and Bind,27,2886
+4/21/01,'1565926099,Building Oracle XML Applications,33,2900
+4/21/01,'1565925289,Java Message Service (O'Reilly Java Series),43,2911
+4/21/01,'1565926595,Windows 2000 Pro: The Missing Manual,30,2937
+4/21/01,'156592858X,Windows 2000 Administration in a Nutshell : A Desktop Quick Reference,33,2947
+4/21/01,'156592455X,Running Linux (3rd Edition),41,2991
+4/21/01,'1565921488,Building Oracle XML Applications,39,2995
+4/21/01,'1565925785,Java Performance Tuning (Java Series (O'Reilly)),30,3035
+4/21/01,'1565923251,Learning the Unix Operating System (Nutshell Handbook),38,3059
+4/21/01,'1565920007,Unix for Oracle DBAs Pocket Reference,45,3067
+4/21/01,'1565925998,Javascript Pocket Reference,31,3087
+4/21/01,'1565924347,Learning the Unix Operating System (Nutshell Handbook),39,3091
+4/21/01,'0596000448,VB and VBA in a Nutshell: The Languages,43,3108
+4/21/01,'0937175757,Java Internationalization,31,3137
+4/21/01,'1565926927,Windows 2000 Active Directory,30,3152
+4/21/01,'0596000324,UNIX Power Tools,44,3156
+4/21/01,'1565922743,Programming Python (2nd Edition),49,3157
+4/21/01,'0596000308,Learning the Unix Operating System (Nutshell Handbook),51,3162
+4/21/01,'1565928628,"ASP in a Nutshell: A Desktop Quick Reference, Second Edition",62,3173
+4/21/01,'1565927087,Oracle Sql : The Essential Reference,48,3183
+4/21/01,'0937175714,Sql in a Nutshell : A Desktop Quick Reference,34,3185
+4/21/01,'1565925300,Programming Python (2nd Edition),34,3201
+4/21/01,'1565923537,"ASP in a Nutshell: A Desktop Quick Reference, Second Edition",25,3239
+4/21/01,'0596001339,JavaServer Pages,28,3241
+4/21/01,'1565921526,Programming Embedded Systems in C and C ++,33,3259
+4/21/01,'1565924886,VB and VBA in a Nutshell: The Languages,45,3278
+4/21/01,'1565927184,JavaServer Pages,39,3289
+4/21/01,'156592598X,C# Essentials,32,3326
+4/21/01,'0596000170,Java Message Service (O'Reilly Java Series),41,3330
+4/21/01,'156592391X,MCSD in a Nutshell: The Visual Basic Exams (VBS Exams 70-175 and 70-176),47,3410
+4/21/01,'1565924037,Html Pocket Reference (Nutshell Handbook),37,3420
+4/21/01,'1565924851,Oracle Dba Checklists Pocket Reference,38,3439
+4/21/01,'1565924894,Mac OS 9 : The Missing Manual (Missing Manual),33,3440
+4/21/01,'1565922204,"ASP in a Nutshell: A Desktop Quick Reference, Second Edition",24,3469
+4/21/01,'1565926277,sed & awk (2nd Edition),46,3470
+4/21/01,'1565921321,vi Editor Pocket Reference (O'Reilly Nutshell),34,3486
+4/21/01,'1565927699,"Learning Web Design : A Beginner's Guide to HTML, Graphics, and Beyond",37,3487
+4/21/01,'0596001053,Programming the Perl DBI,33,3501
+4/21/01,'1565922476,Java Performance Tuning (Java Series (O'Reilly)),44,3507
+4/21/01,'0596000006,Mac OS 9 : The Missing Manual (Missing Manual),37,3529
+4/21/01,'1565926579,"Learning Web Design : A Beginner's Guide to HTML, Graphics, and Beyond",15,3565
+4/21/01,'1565925726,sed & awk (2nd Edition),29,3598
+4/21/01,'059600012X,CGI Programming with Perl (2nd Edition),28,3606
+4/21/01,'1565929470,Programming Python (2nd Edition),34,3636
+4/21/01,'1565925777,Html Pocket Reference (Nutshell Handbook),38,3641
+4/21/01,'156592486X,Cvs Pocket Reference,35,3643
+4/21/01,'1565924185,Dns and Bind,4,3655
+4/21/01,'156592665X,Oracle Dba Checklists Pocket Reference,45,3696
+4/21/01,'1565929438,Sql in a Nutshell : A Desktop Quick Reference,54,3700
+4/21/01,'1565921399,vi Editor Pocket Reference (O'Reilly Nutshell),37,3715
+4/21/01,'156592116X,Windows 98 Annoyances (with CDROM),51,3717
+4/21/01,'1565924622,vi Editor Pocket Reference (O'Reilly Nutshell),23,3718
+4/21/01,'1565927532,Windows 2000 Administration in a Nutshell : A Desktop Quick Reference,21,3746
+4/21/01,'1565923774,Java Message Service (O'Reilly Java Series),41,3753
+4/21/01,'156592861X,PalmPilot: The Ultimate Guide (2nd Edition),24,3795
+4/21/01,'1565922247,Learning the vi Editor (6th Edition),30,3897
+4/21/01,'1565921127,Windows 2000 Commands Pocket Reference,40,3905
+4/21/01,'1565924533,PalmPilot: The Ultimate Guide (2nd Edition),25,3912
+4/21/01,'1565926323,Using Samba (O'Reilly System Administration),36,3959
+4/21/01,'1565923243,UNIX Power Tools,32,3964
+4/21/01,'1565924797,sed & awk (2nd Edition),32,3964
+4/21/01,'1565925165,Cvs Pocket Reference,51,3970
+4/21/01,'1565924029,MCSD in a Nutshell: The Visual Basic Exams (VBS Exams 70-175 and 70-176),38,4011
+4/21/01,'156592522X,Windows Me Annoyances,55,4017
+4/21/01,'1565927583,Vbscript in a Nutshell : A Desktop Quick Reference,41,4019
+4/21/01,'156592259X,Windows Me Annoyances,30,4025
+4/21/01,'1565925807,Sql in a Nutshell : A Desktop Quick Reference,21,4053
+4/21/01,'0937175307,Java Network Programming,31,4073
+4/21/01,'1565923847,Tcp/Ip Network Administration,36,4082
+4/21/01,'1565923065,Learning Python (Help for Programmers),42,4086
+4/21/01,'1565923987,Essential System Administration (Nutshell Handbook),20,4092
+4/21/01,'1565924444,"Database Programming with JDBC and Java, 2nd Edition",35,4097
+4/21/01,'1565926706,Building Oracle XML Applications,25,4115
+4/21/01,'1565922379,Oracle Pl/Sql Programming,35,4146
+4/21/01,'1565928490,Windows 98 Annoyances (with CDROM),35,4146
+4/21/01,'1565926315,Learning the vi Editor (6th Edition),40,4177
+4/21/01,'1565921151,Using Samba (O'Reilly System Administration),20,4180
+4/21/01,'1565926749,Unix for Oracle DBAs Pocket Reference,31,4220
+4/21/01,'1565920163,Java Network Programming,23,4241
+4/21/01,'1565927591,Java Internationalization,28,4253
+4/21/01,'1565922867,Vbscript in a Nutshell : A Desktop Quick Reference,27,4257
+4/21/01,'1565924002,Windows 98 Annoyances (with CDROM),22,4269
+4/21/01,'1565928385,Sendmail,31,4271
+4/21/01,'1565928504,Learning the vi Editor (6th Edition),21,4274
+4/21/01,'156592729X,Tcp/Ip Network Administration,32,4298
+4/21/01,'1565924460,Bipolar Disorders: A Guide to Helping Children & Adolescents,20,4357
+4/21/01,'1565920376,Ethernet : The Definitive Guide,31,4381
+4/21/01,'1565922964,Using Samba (O'Reilly System Administration),22,4387
+4/21/01,'0596000472,PalmPilot: The Ultimate Guide (2nd Edition),28,4405
+4/21/01,'1565922514,CGI Programming with Perl (2nd Edition),22,4413
+4/21/01,'1565925238,Programming the Perl DBI,23,4429
+4/21/01,'1565925149,Html Pocket Reference (Nutshell Handbook),26,4449
+4/21/01,'1565921046,CGI Programming with Perl (2nd Edition),20,4483
+4/21/01,'1565925173,Programming Embedded Systems in C and C ++,27,4486
+4/21/01,'0937175730,"Database Programming with JDBC and Java, 2nd Edition",38,4491
+4/21/01,'156592701X,Learning Python (Help for Programmers),26,4510
+4/21/01,'1565922697,Programming Embedded Systems in C and C ++,30,4531
+4/21/01,'1565926730,Windows 2000 Administration in a Nutshell : A Desktop Quick Reference,29,4538
+4/21/01,'1565925823,Essential System Administration (Nutshell Handbook),20,4545
+4/21/01,'1565927141,Vbscript in a Nutshell : A Desktop Quick Reference,32,4554
+4/21/01,'1565924606,Tcp/Ip Network Administration,22,4556
+4/21/01,'1565925254,Linux Device Drivers (Nutshell Handbook),23,4594
+4/21/01,'1565924843,UNIX Power Tools,20,4625
+4/21/01,'1565925009,Javascript Pocket Reference,16,4633
+4/21/01,'1565924967,Windows 2000 Active Directory,24,4661
+4/21/01,'1565924487,Windows 2000 Active Directory,31,4725
+4/21/01,'1565922891,Javascript Pocket Reference,39,4746
+4/21/01,'1565922786,XML Pocket Reference,16,4756
+4/21/01,'1565926757,Java Network Programming,25,4758
+4/21/01,'1565924010,Sendmail,16,4759
+4/21/01,'1565924789,Cvs Pocket Reference,18,4771
+4/21/01,'1565928598,Java Internationalization,31,4860
+4/21/01,'1565924983,Programming the Perl DBI,31,4865
+4/21/01,'1565920740,Sendmail,21,4870
+4/21/01,'1565926412,Learning the Bash Shell (Nutshell Handbooks),22,4919
+4/21/01,'1565927257,Learning Python (Help for Programmers),43,4951
+4/21/01,'156592438X,Oracle PL/SQL Best Practices,38,4994
+4/21/01,'1565924568,Ethernet : The Definitive Guide,25,4997
+4/21/01,'0937175773,Managing Projects With make (2nd Edition),24,5003
+4/21/01,'1565926218,Ethernet : The Definitive Guide,21,5055
+4/21/01,'1565923200,Linux Device Drivers (Nutshell Handbook),23,5057
+4/21/01,'1565927214,LINUX in A Nutshell: A Desktop Quick Reference (3rd Edition),17,5144
+4/21/01,'1565922069,"Database Programming with JDBC and Java, 2nd Edition",17,5147
+4/21/01,'1565920414,Java Enterprise in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),17,5185
+4/21/01,'156592634X,LINUX in A Nutshell: A Desktop Quick Reference (3rd Edition),23,5228
+4/21/01,'1565926498,Linux Device Drivers (Nutshell Handbook),23,5259
+4/21/01,'1565923790,Managing Projects With make (2nd Edition),27,5281
+4/21/01,'1565925459,XML Pocket Reference,21,5282
+4/21/01,'1565924932,Java Servlet Programming,10,5368
+4/21/01,'1565925297,Visual Basic Controls in a Nutshell : The Controls of the Professional and Enterprise Editions (Nutshell Series),20,5378
+4/21/01,'1565922387,Windows 2000 Commands Pocket Reference,36,5385
+4/21/01,'1565926374,Apache : Pocket Reference,22,5429
+4/21/01,'0596000383,Oracle & Open Source,86,5495
+4/21/01,'0596500033,Programming Python,2,5521
+4/21/01,'1565925815,MCSE in a Nutshell: The Windows 2000 Exams,12,5534
+4/21/01,'1565927559,Managing Projects With make (2nd Edition),20,5539
+4/21/01,'1565923782,MCSE : The Electives in a Nutshell,2,5635
+4/21/01,'1199000590,MCSE in a Nutshell: The Windows 2000 Exams,17,5652
+4/21/01,'1565926773,Apache : The Definitive Guide,27,5658
+4/21/01,'1199000647,Programming Python,1,5661
+4/21/01,'1565921631,MCSE : The Electives in a Nutshell,1,5678
+4/21/01,'1565924118,Learning the Bash Shell (Nutshell Handbooks),18,5684
+4/21/01,'059600107X,Oracle SQL Loader: The Definitive Guide,75,5731
+4/21/01,'1565924827,Java Enterprise in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),18,5851
+4/21/01,'1565922689,Beyond Contact: A Guide to SETI and Communicating with Alien Civilizations,22,5864
+4/21/01,'0596001312,Learning the Bash Shell (Nutshell Handbooks),20,5949
+4/21/01,'1565927117,Exploring Expect : A Tcl-Based Toolkit for Automating Interactive Programs (Nutshell Handbook),29,6050
+4/21/01,'1565923758,UNIX Backup and Recovery,19,6086
+4/21/01,'156592410X,Java Servlet Programming,12,6107
+4/21/01,'1565923006,Exploring Expect : A Tcl-Based Toolkit for Automating Interactive Programs (Nutshell Handbook),22,6122
+4/21/01,'1565924339,Learning the Korn Shell (A Nutshell Handbook),20,6127
+4/21/01,'1565927311,Apache : Pocket Reference,14,6144
+4/21/01,'1565927192,Learning the Korn Shell (A Nutshell Handbook),21,6147
+4/21/01,'1565925203,Visual Basic Controls in a Nutshell : The Controls of the Professional and Enterprise Editions (Nutshell Series),20,6193
+4/21/01,'1565923014,Java Network Programming,1,6212
+4/21/01,'1565920023,Vbscript Pocket Reference,19,6231
+4/21/01,'1565925734,Learning the Korn Shell (A Nutshell Handbook),22,6308
+4/21/01,'1565926137,Visual Basic Controls in a Nutshell : The Controls of the Professional and Enterprise Editions (Nutshell Series),17,6308
+4/21/01,'1565921267,Apache : Pocket Reference,21,6362
+4/21/01,'1565926544,Java Enterprise in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),12,6446
+4/21/01,'1565926617,LINUX in A Nutshell: A Desktop Quick Reference (3rd Edition),16,6476
+4/21/01,'1565920074,Perl for System Administration,16,6504
+4/21/01,'1565925319,Apache : The Definitive Guide,16,6522
+4/21/01,'1565920066,Practical Unix and Internet Security,17,6574
+4/21/01,'1565924592,Oracle PL/SQL Best Practices,35,6723
+4/21/01,'1565920155,Appleworks 6 : The Missing Manual,16,6737
+4/21/01,'1565922530,Apache : The Definitive Guide,10,6774
+4/21/01,'1565922735,Practical Unix and Internet Security,19,6830
+4/21/01,'1565922271,The Cathedral and the Bazaar : Musings on Linux and Open Source by an Accidental Revolutionary,27,6832
+4/21/01,'1565923235,Exploring Expect : A Tcl-Based Toolkit for Automating Interactive Programs (Nutshell Handbook),18,6841
+4/21/01,'1565922913,Perl for System Administration,19,6891
+4/21/01,'1565923707,Outlook 2000 in a Nutshell: a Power User's Quick Reference,21,6894
+4/21/01,'1565926013,Practical Unix and Internet Security,15,6895
+4/21/01,'1565925378,The Cathedral and the Bazaar : Musings on Linux and Open Source by an Accidental Revolutionary,13,6975
+4/21/01,'1565926331,XML Pocket Reference,18,7043
+4/21/01,'0937175838,Oracle & Open Source,14,7101
+4/21/01,'156592312X,The Cathedral and the Bazaar : Musings on Linux and Open Source by an Accidental Revolutionary,21,7156
+4/21/01,'1565925653,Xml Pocket Reference,71,7179
+4/21/01,'1565926250,Perl for System Administration,11,7242
+4/21/01,'1565926870,Appleworks 6 : The Missing Manual,17,7263
+4/21/01,'1565922492,Oracle SQL Plus Pocket Reference,23,7341
+4/21/01,'1565922263,Delphi in a Nutshell : A Desktop Quick Reference (In a Nutshell),18,7365
+4/21/01,'1565924509,Webmaster in a Nutshell (2nd Edition),15,7372
+4/21/01,'1565925882,"Perl 5 Pocket Reference, 3rd Edition: Programming Tools (O'Reilly Perl)",18,7412
+4/21/01,'1565921178,Oracle SQL Plus Pocket Reference,21,7422
+4/21/01,'156592200X,UNIX Backup and Recovery,19,7472
+4/21/01,'1565924320,Writing Apache Modules with Perl and C: The Apache API and mod_perl (O'Reilly Nutshell),16,7505
+4/21/01,'1565921542,Vbscript Pocket Reference,21,7518
+4/21/01,'156592388X,The Unofficial Guide to LEGO MINDSTORMS Robots,18,7543
+4/21/01,'1565922190,Appleworks 6 : The Missing Manual,15,7565
+4/21/01,'1565920139,Java Servlet Programming,12,7622
+4/21/01,'1565921984,Webmaster in a Nutshell (2nd Edition),10,7649
+4/21/01,'1565920058,HTTP Pocket Reference,16,7669
+4/21/01,'0937175021,Delphi in a Nutshell : A Desktop Quick Reference (In a Nutshell),16,7747
+4/21/01,'0937175226,Oracle SQL Plus Pocket Reference,29,7781
+4/21/01,'1565925335,Outlook 2000 in a Nutshell: a Power User's Quick Reference,12,7820
+,,Webmaster in a Nutshell (2nd Edition),8,7841
+,,Delphi in a Nutshell : A Desktop Quick Reference (In a Nutshell),12,7868
+,,Vbscript Pocket Reference,30,7893
+4/28/01,'0596000405,Oracle Sql Plus : The Definitive Guide,15,8022
+4/28/01,'1565923928,Learning Gnu Emacs,11,8031
+4/28/01,'0596000278,Writing Apache Modules with Perl and C: The Apache API and mod_perl (O'Reilly Nutshell),15,8078
+4/28/01,'0596000588,HTTP Pocket Reference,12,8123
+4/28/01,'0596000111,MCSE in a Nutshell: The Windows 2000 Exams,17,8172
+4/28/01,'1565924878,"Perl 5 Pocket Reference, 3rd Edition: Programming Tools (O'Reilly Perl)",17,8174
+4/28/01,'0596000464,The Unofficial Guide to LEGO MINDSTORMS Robots,13,8289
+4/28/01,'0596001584,Outlook 2000 in a Nutshell: a Power User's Quick Reference,18,8312
+4/28/01,'059600026X,Developing ASP Components (2nd Edition),12,8314
+4/28/01,'1565927680,Oracle Sql Plus : The Definitive Guide,16,8348
+4/28/01,'1565928695,Java Foundation Classes in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),15,8400
+4/28/01,'1565924274,UNIX Backup and Recovery,19,8430
+4/28/01,'1565922840,Writing Excel Macros,8,8519
+4/28/01,'1565922573,Designing Active Server Pages,13,8617
+4/28/01,'0596001045,Writing Excel Macros,12,8660
+4/28/01,'0596000022,Learning Gnu Emacs,14,8760
+4/28/01,'1565924940,Web Navigation: Designing the User Experience,18,8764
+4/28/01,'1565926226,The Unofficial Guide to LEGO MINDSTORMS Robots,9,8772
+4/28/01,'0596000103,Web Navigation: Designing the User Experience,9,8798
+4/28/01,'1565926978,Lotus Domino Administration in a Nutshell : A Desktop Quick Reference,20,8857
+4/28/01,'1565928717,Oracle Sql Plus : The Definitive Guide,18,8895
+4/28/01,'1565922433,Oracle Essentials : Oracle8 and Oracle8I,17,8908
+4/28/01,'0596000669,Writing Apache Modules with Perl and C: The Apache API and mod_perl (O'Reilly Nutshell),11,8912
+4/28/01,'156592746X,Managing Nfs and Nis,13,8942
+4/28/01,'059600110X,Developing ASP Components (2nd Edition),8,8950
+4/28/01,'0596001223,Java Foundation Classes in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),13,8962
+4/28/01,'059600009X,Writing Excel Macros,20,9027
+4/28/01,'059600060X,Learning Gnu Emacs,11,9114
+4/28/01,'0596000391,Computer Security Basics,12,9145
+4/28/01,'0596000790,Internet Core Protocols: the Definitive Guide,17,9182
+4/28/01,'1565922824,Web Navigation: Designing the User Experience,12,9331
+4/28/01,'1565927524,MySQL and mSQL,14,9348
+4/28/01,'0596000154,Oracle Essentials : Oracle8 and Oracle8I,12,9363
+4/28/01,'0596000162,Developing ASP Components (2nd Edition),17,9372
+4/28/01,'1565923359,PC Hardware in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),14,9415
+4/28/01,'1565922603,Advanced Perl Programming,17,9606
+4/28/01,'1565921275,The Perl Cd Bookshelf : 6 Bestselling Books on Cd-Rom,8,9647
+4/28/01,'1565927133,Lotus Domino Administration in a Nutshell : A Desktop Quick Reference,36,9745
+4/28/01,'1565925122,REALbasic : The Definitive Guide,12,9763
+4/28/01,'0596001215,Designing Active Server Pages,12,9768
+4/28/01,'1565923901,Internet Core Protocols: the Definitive Guide,14,9774
+4/28/01,'1565925157,Windows 2000: Quick Fixes,9,9836
+4/28/01,'1565923588,REALbasic : The Definitive Guide,11,9869
+4/28/01,'1565925793,Pervasive Developmental Disorders: Finding a Diagnosis and Getting Help,12,9889
+4/28/01,'156592469X,Java Foundation Classes in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),11,9907
+4/28/01,'0596000685,"Perl 5 Pocket Reference, 3rd Edition: Programming Tools (O'Reilly Perl)",13,9909
+4/28/01,'1565928431,Managing Nfs and Nis,11,9928
+4/28/01,'0596000855,Oracle Dba Checklists Pocket Reference,62,9998
+4/28/01,'1565924975,Dns on Windows Nt,34,10089
+4/28/01,'1565923227,Learning Java (The Java Series),11,10150
+4/28/01,'1565922255,"Oracle8i Internal Services: For Waits, Latches, Locks, and Memory",9,10207
+4/28/01,'0596000367,Computer Security Basics,30,10283
+4/28/01,'1565926994,Lotus Domino Administration in a Nutshell : A Desktop Quick Reference,4,10284
+4/28/01,'1565927206,Oracle Design (Nutshell Handbook),1,10446
+4/28/01,'1565927443,Windows 2000: Quick Fixes,14,10660
+4/28/01,'1565924266,"Oracle8i Internal Services: For Waits, Latches, Locks, and Memory",11,10680
+4/28/01,'1565926919,"The UNIX CD Bookshelf, 2nd Edition (w/ CD-ROM)",17,10710
+4/28/01,'1565924193,MySQL and mSQL,14,10725
+4/28/01,'1565922220,Java Security (Java Series (O'Reilly & Associates).),12,10743
+4/28/01,'1565924495,Oracle Design (Nutshell Handbook),1,10778
+4/28/01,'1565926161,MySQL and mSQL,9,10872
+4/28/01,'0596000030,Learning Java (The Java Series),9,10886
+4/28/01,'1565926609,PC Hardware in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),6,11013
+4/28/01,'0596001487,REALbasic : The Definitive Guide,9,11034
+4/28/01,'1565923545,Windows 2000: Quick Fixes,11,11080
+4/28/01,'1565925211,Oracle Essentials : Oracle8 and Oracle8I,9,11166
+4/28/01,'1565926382,Managing Nfs and Nis (Nutshell Handbook),7,11170
+4/28/01,'0596001339,Computer Security Basics,10,11291
+4/28/01,'1565928709,Oracle SQL Loader: The Definitive Guide,11,11413
+4/28/01,'1565928571,Managing Imap,9,11430
+4/28/01,'0937175900,HTTP Pocket Reference,13,11467
+4/28/01,'1565924177,Learning Wml & Wmlscript,9,11483
+4/28/01,'1565920546,Java I/O (O'Reilly Java),10,11540
+4/28/01,'1565924649,PC Hardware in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),14,11681
+4/28/01,'1565927060,Designing Web Audio,12,11699
+4/28/01,'1565921976,Practical C Programming (Nutshell Handbook),10,11734
+4/28/01,'1565926005,Java I/O (O'Reilly Java),14,11773
+4/28/01,'0596000308,"The UNIX CD Bookshelf, 2nd Edition (w/ CD-ROM)",9,11777
+4/28/01,'1565922921,Internet Core Protocols: the Definitive Guide,9,11792
+4/28/01,'0596000197,Designing Active Server Pages,10,11794
+4/28/01,'1565924827,Managing Imap,12,11918
+4/28/01,'0596000251,Lex & Yacc,15,12015
+4/28/01,'1565927095,Practical C Programming (Nutshell Handbook),14,12026
+4/28/01,'1565923472,Crossing Platforms : A Macintosh/Windows Phrasebook,7,12074
+4/28/01,'1565925289,Java I/O (O'Reilly Java),10,12087
+4/28/01,'1565920902,"Oracle8i Internal Services: For Waits, Latches, Locks, and Memory",9,12138
+4/28/01,'156592391X,Xml Pocket Reference,39,12183
+4/28/01,'1565929411,Crossing Platforms : A Macintosh/Windows Phrasebook,17,12199
+4/28/01,'1565924835,"The UNIX CD Bookshelf, 2nd Edition (w/ CD-ROM)",7,12815
+4/28/01,'1565921488,Word 2000 in a Nutshell: A Power User's Quick Reference,10,12871
+4/28/01,'1565922948,Advanced Perl Programming,4,13212
+4/28/01,'0596001088,Oracle Net8 Configuration & Troubleshooting,33,13218
+4/28/01,'1565924886,Practical C++ Programming (Nutshell Handbook),10,13391
+4/28/01,'1565926099,Practical C Programming (Nutshell Handbook),6,13468
+4/28/01,'0596000189,Dns on Windows Nt,4,13635
+4/28/01,'1565926927,Access Database Design & Programming (Nutshell Handbook),22,13719
+4/28/01,'0596001266,Advanced Perl Programming,10,13742
+4/28/01,'1565922204,Java Security (Java Series (O'Reilly & Associates).),10,13815
+4/28/01,'1565923251,Learning Java (The Java Series),11,13825
+4/28/01,'1565927087,Using Csh and Tcsh (Nutshell Handbook),14,13880
+4/28/01,'156592858X,Designing Web Audio,8,13908
+4/28/01,'1565925785,Oracle Net8 Configuration & Troubleshooting,8,13966
+4/28/01,'1565928628,Mastering Algorithms With C,7,14152
+4/28/01,'1565927044,Managing Windows 2000 Registry,8,14153
+4/28/01,'1565926420,PHP Pocket Reference,5,14165
+4/28/01,'0596000324,Oracle PL/SQL Language Pocket Reference,16,14202
+4/28/01,'156592567X,CJKV Information Processing,9,14237
+4/28/01,'1565927176, Linux Network Administrator's Guide (2nd Edition),14,14293
+4/28/01,'1565925874,Lex & Yacc,14,14349
+4/28/01,'0596000448,Perl in a Nutshell : A Desktop Quick Reference,10,14363
+4/28/01,'1565926595,PHP Pocket Reference,13,14369
+4/28/01,'1565927508,Managing Windows 2000 Registry,12,14371
+4/28/01,'1565921526,Lex & Yacc,8,14373
+4/28/01,'0596000170,Word 2000 in a Nutshell: A Power User's Quick Reference,1,14436
+4/28/01,'1565925726,JavaScript Application Cookbook,10,14464
+4/28/01,'1565923065,Managing Imap,7,14518
+4/28/01,'1565926579,Database Nation : The Death of Privacy in the 21st Century,7,14721
+4/28/01,'1565929489,Dns on Windows Nt,8,14920
+4/28/01,'1565924037,The Perl Cd Bookshelf : 6 Bestselling Books on Cd-Rom,5,14945
+4/28/01,'1565923510,Perl in a Nutshell : A Desktop Quick Reference,9,14968
+4/28/01,'0937175714,Java Enterprise Cd Bookshelf : Version 1.0,14,15030
+4/28/01,'1565927184,JavaScript Application Cookbook,9,15056
+4/28/01,'0937175757,Evil Geniuses in a Nutshell,8,15111
+4/28/01,'1565925998,Designing Web Audio,6,15160
+4/28/01,'1565922689,Mastering Algorithms with Perl,10,15202
+4/28/01,'156592598X,Java Security (Java Series (O'Reilly & Associates).),5,15283
+4/28/01,'1565920007,Crossing Platforms : A Macintosh/Windows Phrasebook,8,15300
+4/28/01,'1565929438,CJKV Information Processing,8,15399
+4/28/01,'1565927532,Windows 2000 Commands Pocket Reference,19,15497
+4/28/01,'1565924347,JavaScript Application Cookbook,10,15558
+4/28/01,'1565924576,Learning Wml & Wmlscript,12,15563
+4/28/01,'1565924851,Web Security & Commerce (O'Reilly Nutshell),4,15576
+4/28/01,'059600012X,Java Enterprise Cd Bookshelf : Version 1.0,8,15616
+4/28/01,'1565925394,Essential Windows Nt System Administration,13,15837
+4/28/01,'1565923987,Mastering Algorithms With C,15,15890
+4/28/01,'0596000006,Oracle PL/SQL Language Pocket Reference,8,15937
+4/28/01,'1565922867,Windows Nt Tcp/Ip Network Administration,8,15955
+4/28/01,'0596001053,CJKV Information Processing,9,15971
+4/28/01,'1565923537,Perl in a Nutshell : A Desktop Quick Reference,5,15974
+4/28/01,'1565925114,Oracle Net8 Configuration & Troubleshooting,11,16010
+4/28/01,'1565927699,Database Nation : The Death of Privacy in the 21st Century,4,16207
+4/28/01,'1565924622,Practical C++ Programming (Nutshell Handbook),9,16652
+4/28/01,'1565922697,Access Database Design & Programming (Nutshell Handbook),10,16894
+4/28/01,'1565922247,Web Security & Commerce (O'Reilly Nutshell),18,16998
+4/28/01,'1565929470,Java Threads (Java Series (O'Reilly & Associates)),9,17037
+4/28/01,'1565925777,Using Csh and Tcsh (Nutshell Handbook),10,17057
+4/28/01,'1565924894,Learning Vbscript,10,17149
+4/28/01,'1565928504,PHP Pocket Reference,10,17251
+4/28/01,'1565922476,Practical C++ Programming (Nutshell Handbook),13,17318
+4/28/01,'1565921399,Learning Wml & Wmlscript,8,17333
+4/28/01,'1565923774,Mastering Algorithms With C,8,17381
+4/28/01,'1565926277,Essential Windows Nt System Administration,8,17420
+4/28/01,'1565924533,Cdo and Mapi Programming With Visual Basic,9,17477
+4/28/01,'156592861X,Mastering Algorithms with Perl,6,17503
+4/28/01,'1565926269,Windows Nt Tcp/Ip Network Administration,6,17525
+4/28/01,'1565924185,Learning Red Hat Linux,10,17535
+4/28/01,'1565921127,C++ : The Core Language,7,17681
+4/28/01,'1565925254,Mastering Algorithms with Perl,8,17712
+4/28/01,'1565924002,Learning Vbscript,5,17765
+4/28/01,'156592486X,Access Database Design & Programming (Nutshell Handbook),11,17871
+4/28/01,'1565921321, Linux Network Administrator's Guide (2nd Edition),5,18101
+4/28/01,'1565926498, Linux Network Administrator's Guide (2nd Edition),11,18189
+4/28/01,'1565925165,Windows Nt Tcp/Ip Network Administration,6,18437
+4/28/01,'1565928385,Windows 98 in a Nutshell : A Desktop Quick Reference (Nutshell Handbooks),9,18538
+4/28/01,'1565923618,Database Nation : The Death of Privacy in the 21st Century,10,18699
+4/28/01,'156592729X,Palm Programming : The Developer's Guide,10,18725
+4/28/01,'156592455X,Java Swing,12,18761
+4/28/01,'1565923243,Windows Nt Desktop Reference,21,18864
+4/28/01,'1565922743,Evil Geniuses in a Nutshell,9,18924
+4/28/01,'1565922913,Programming With Gnu Software (Nutshell Handbook),8,18986
+4/28/01,'1565926757,Learning Red Hat Linux,4,18997
+4/28/01,'1565920988,Managing Windows 2000 Registry,9,19130
+4/28/01,'156592116X,Java Threads (Java Series (O'Reilly & Associates)),6,19153
+4/28/01,'1565924029,Web Security & Commerce (O'Reilly Nutshell),15,19242
+4/28/01,'1565924797,Learning Vbscript,10,19379
+4/28/01,'1565925823,Internet in A Nutshell,1,19750
+4/28/01,'1565924967,Oracle PL/SQL Language Pocket Reference,21,19853
+4/28/01,'1565923790,Managing Microsoft Exchange Server,9,19949
+4/28/01,'1565925459,"Non-Hodgkin's Lymphomas: Making Sense of Diagnosis, Treatment and Options",6,20039
+4/28/01,'1565926315,Programming With Gnu Software (Nutshell Handbook),8,20045
+4/28/01,'156592665X,Windows 98 in a Nutshell : A Desktop Quick Reference (Nutshell Handbooks),8,20106
+4/28/01,'1565924061,Using Csh and Tcsh (Nutshell Handbook),4,20285
+4/28/01,'1565926706,User Friendly,4,20349
+4/28/01,'1565926730,Sed & Awk Pocket Reference,7,20378
+4/28/01,'1565928490,Evil Geniuses in a Nutshell,6,20509
+4/28/01,'0596000472,DHCP for Windows 2000,5,20516
+4/28/01,'1565922964,Programming Internet Email,7,20796
+4/28/01,'1565920376,Java Enterprise Cd Bookshelf : Version 1.0,5,21231
+4/28/01,'1565927141,Learning Red Hat Linux,6,21364
+4/28/01,'1565925009,Sed & Awk Pocket Reference,10,21425
+4/28/01,'1565924843,Word 2000 in a Nutshell: A Power User's Quick Reference,3,21775
+4/28/01,'1565921941,Sed & Awk Pocket Reference,5,21954
+4/28/01,'1565923758,DHCP for Windows 2000,8,22108
+4/28/01,'0937175730,Learning Perl on Win32 Systems,8,22409
+4/28/01,'1565925807,Essential Windows Nt System Administration,7,22455
+4/28/01,'1565922891,Windows: System Policy Editor,7,22587
+4/28/01,'1565925173,Oracle8 Design Tips,2,22709
+4/28/01,'1565920740,C++ : The Core Language,9,22741
+4/28/01,'1565922379,Learning Perl on Win32 Systems,6,22829
+4/28/01,'156592388X,Oracle Database Administration : The Essential Reference,7,23002
+4/28/01,'1565925238,Net Lessons : Web-Based Projects for Your Classroom,1,23463
+4/28/01,'1565924932,DHCP for Windows 2000,4,23539
+4/28/01,'156592259X,Java Swing,7,23583
+4/28/01,'1565927117,Java Threads (Java Series (O'Reilly & Associates)),6,23633
+4/28/01,'1565927052,Net Lessons : Web-Based Projects for Your Classroom,4,23634
+4/28/01,'1565924010,Palm Programming : The Developer's Guide,11,23856
+4/28/01,'1565921151,Visual Basic Shell Programming,6,24164
+4/28/01,'1565921232,C++ : The Core Language,10,24352
+4/28/01,'1565926749,Net Lessons : Web-Based Projects for Your Classroom,3,24403
+4/28/01,'1565925378,PGP : Pretty Good Privacy,2,24676
+4/28/01,'1565924789,Programming Internet Email,4,24907
+4/28/01,'0937175021,Oracle Database Administration : The Essential Reference,4,24998
+4/28/01,'1565924487,Windows 98 in a Nutshell : A Desktop Quick Reference (Nutshell Handbooks),2,25144
+4/28/01,'1565922786,Programming With Gnu Software (Nutshell Handbook),5,25194
+4/28/01,'1565924983,Oracle Database Administration : The Essential Reference,8,25285
+4/28/01,'1565924460,Learning Perl on Win32 Systems,8,25330
+4/28/01,'0937175838,Managing Microsoft Exchange Server,15,25391
+4/28/01,'156592312X,Java Cryptography (Java Series (O'Reilly & Associates).),6,25424
+4/28/01,'1565922514,"Childhood Leukemia : A Guide for Families, Friends & Caregivers (Patient-Centered Guides)",8,25436
+4/28/01,'1565927591,Windows: System Policy Editor,6,25548
+4/28/01,'156592696X,The Perl Cd Bookshelf : 6 Bestselling Books on Cd-Rom,2,26594
+4/28/01,'1565921046,Developing Asp Components,5,26614
+4/28/01,'0596000995,Java Cryptography (Java Series (O'Reilly & Associates).),7,26651
+4/28/01,'1565925297,Open Sources: Voices from the Open Source Revolution (O'Reilly Open Source),4,26679
+4/28/01,'1565922387,Web Performance Tuning: Speeding Up the Web (O'Reilly Nutshell),9,26771
+4/28/01,'1565922492,Windows: System Policy Editor,3,26832
+4/28/01,'1565926218,Oracle Performance Tuning (Nutshell Handbook),6,26841
+4/28/01,'1565920163,Web Performance Tuning: Speeding Up the Web (O'Reilly Nutshell),6,26940
+4/28/01,'1565925653,Cdo and Mapi Programming With Visual Basic,7,27001
+4/28/01,'1565923006,Cdo and Mapi Programming With Visual Basic,1,27179
+4/28/01,'156592438X,Web Performance Tuning: Speeding Up the Web (O'Reilly Nutshell),3,27223
+4/28/01,'1565926374,User Friendly,6,27418
+4/28/01,'1565927257,SCO Unix in a Nutshell : A Desktop Quick Reference for Sco Unix and Open Desktop,5,27469
+4/28/01,'0937175773,Excel 2000 in a Nutshell : A Power User's Quick Reference,4,27735
+4/28/01,'0596000383,Open Sources: Voices from the Open Source Revolution (O'Reilly Open Source),11,27921
+4/28/01,'1565922263,Win32 Multithreaded Programming,5,28008
+4/28/01,'1565926412,Perl Resource Kit : Unix Edition,1,28068
+4/28/01,'1565924339,Gnu Emacs Pocket Reference,10,28243
+4/28/01,'1565928598,Win32 Multithreaded Programming,3,28288
+4/28/01,'1565923200,Win32 API Programming with Visual Basic,8,28307
+4/28/01,'1565920074,Oracle PL/SQL Programming: Guide to Oracle8i Features,7,28372
+4/28/01,'1565925882,Oracle PL/SQL Best Practices,46,28383
+4/28/01,'1565927192,Gnu Emacs Pocket Reference,3,28407
+4/28/01,'1565926773,Unix Cd Bookshelf (Contains 6 books and software),1,28447
+4/28/01,'1565927311,Visual Basic Shell Programming,3,28474
+4/28/01,'1565925203,Oracle Design (Nutshell Handbook),2,28927
+4/28/01,'1565922069,Childhood Cancer Survivors: A Practical Guide to Your Future,4,29565
+4/28/01,'1565924568,Win32 Multithreaded Programming,4,29581
+4/28/01,'1565926250,Transact-SQL Programming,6,29621
+4/28/01,'1565920139,The Oracle Pl/Sql Cd Bookshelf : 7 Bestselling Books on Cd-Rom,3,29627
+4/28/01,'1565920023,SCO Unix in a Nutshell : A Desktop Quick Reference for Sco Unix and Open Desktop,2,29707
+4/28/01,'156592200X,Programming Internet Email,5,29907
+4/28/01,'1565926137,Python : Pocket Reference,5,29948
+4/28/01,'1565924509,The Oracle Pl/Sql Cd Bookshelf : 7 Bestselling Books on Cd-Rom,6,30004
+4/28/01,'1565926617,Oracle PL/SQL Programming: Guide to Oracle8i Features,14,30059
+4/28/01,'0937175307,Mod-Perl Pocket Reference,5,30226
+4/28/01,'1565925815,Microsoft Exchange Server in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),1,30323
+4/28/01,'1565925149,Java Swing,16,30345
+4/28/01,'1565927214,Managing Microsoft Exchange Server,3,30535
+4/28/01,'1565920066,Java Virtual Machine (Java Series),1,30582
+4/28/01,'1565921631,Win32 API Programming with Visual Basic,6,30938
+4/28/01,'1565926544,Pthreads Programming: A POSIX Standard for Better Multiprocessing (O'Reilly Nutshell),6,31141
+4/28/01,'1565921267,Open Sources: Voices from the Open Source Revolution (O'Reilly Open Source),4,31161
+4/28/01,'156592701X,Excel 2000 in a Nutshell : A Power User's Quick Reference,1,31198
+4/28/01,'1565921178,Windows Nt in a Nutshell : A Desktop Quick Reference for System Administrators (Nutshell Handbooks),5,31241
+4/28/01,'1565924320,Mod-Perl Pocket Reference,5,31253
+4/28/01,'1565921542,Posix Programmer's Guide : Writing Portable Unix Programs With the Posix. 1 Standard,3,31256
+4/28/01,'1565923847,Perl/Tk Pocket Reference,3,31609
+4/28/01,'1565920155,Java Virtual Machine (Java Series),2,31622
+4/28/01,'1565923820,Java Cryptography (Java Series (O'Reilly & Associates).),3,31670
+4/28/01,'156592083X,Posix. 4 : Programming for the Real World,4,31859
+4/28/01,'1565923782,Oracle PL/SQL Programming Developer's Workbook,3,31870
+4/28/01,'1565921984,Python : Pocket Reference,4,31935
+4/28/01,'1199000647,Java 2D Graphics,3,31942
+4/28/01,'1565923014,Transact-SQL Programming,7,32031
+4/28/01,'0937175226,The Cathedral & the Bazaar : Musings on Linux and Open Source by an Accidental Revolutionary,2,32191
+4/28/01,'1565923219,"Advanced Breast Cancer: A Guide to Living with Metastatic Disease, 2nd Edition (Patient-Centered Guides)",7,32356
+4/28/01,'1565920414,Networking CD Bookshelf,3,32467
+4/28/01,'1565922611,Lingo in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),7,32489
+,,Visual Basic Shell Programming,9,32494
+,,Managing Mailing Lists,4,32723
+,,Java 2D Graphics,4,32846
+,,Sendmail Desktop Reference,7,32977
+,,SCO Unix in a Nutshell : A Desktop Quick Reference for Sco Unix and Open Desktop,4,33045
+,,Desktop Management With Novell Zenworks,5,33130
+,,Gnu Emacs Pocket Reference,4,33144
+,,Win32 API Programming with Visual Basic,3,33350
+5/5/01,596000278,Python : Pocket Reference,5,33579
+5/5/01,596001584,Oracle Built-In Packages,5,33605
+5/5/01,1565926641,Perl/Tk Pocket Reference,9,33714
+5/5/01,596000405,DocBook: The Definitive Guide (O'Reilly XML),4,33739
+5/5/01,1565923928,Developing Java Beans (Java Series),3,33987
+5/5/01,596000111,Palm Programming : The Developer's Guide,4,34269
+5/5/01,596000588,Mod-Perl Pocket Reference,4,34496
+5/5/01,1565928695,Oracle Performance Tuning (Nutshell Handbook),2,34541
+5/5/01,596000464,DocBook: The Definitive Guide (O'Reilly XML),6,34567
+5/5/01,1565922840,Oracle Built-In Packages,2,34774
+5/5/01,1565924274,Xml Pocket Reference,12,34798
+5/5/01,1565922573,Java 2D Graphics,4,34824
+5/5/01,1565924878,Uml in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),4,35150
+5/5/01,1565927680,Pthreads Programming: A POSIX Standard for Better Multiprocessing (O'Reilly Nutshell),4,35324
+5/5/01,1565928717,Networking CD Bookshelf,7,35427
+5/5/01,596000790,Desktop Management With Novell Zenworks,2,35434
+5/5/01,1565922433,Lingo in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),3,35469
+5/5/01,1565926226,Pthreads Programming: A POSIX Standard for Better Multiprocessing (O'Reilly Nutshell),6,35586
+5/5/01,059600009X,"Hydrocephalus: A Guide for Patients, Families and Friends",2,35602
+5/5/01,1565925157,Learning Debian Gnu/Linux,1,35649
+5/5/01,596001045,Uml in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),3,35664
+5/5/01,059600110X,Programming Web Graphics with Perl & GNU Software (O'Reilly Nutshell),4,35723
+5/5/01,596000022,Lingo in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),6,35824
+5/5/01,596000103,Windows NT Event Logging (O'Reilly Nutshell),5,35864
+5/5/01,1565923588,Desktop Management With Novell Zenworks,8,35913
+5/5/01,1565926978,Developing Java Beans (Java Series),3,36022
+5/5/01,1565922824,Managing Mailing Lists,3,36029
+5/5/01,596000391,Networking CD Bookshelf,5,36134
+5/5/01,1565923545,Oracle PL/SQL Programming: Guide to Oracle8i Features,4,36186
+5/5/01,1565928571,Developing Java Beans (Java Series),4,36265
+5/5/01,596000162,Excel 2000 in a Nutshell : A Power User's Quick Reference,4,36311
+5/5/01,1565927443,Writing GNU Emacs Extensions: Editor Customizations and Creations with Lisp (O'Reilly Nutshell),2,36707
+5/5/01,1565924940,Posix. 4 : Programming for the Real World,8,36841
+5/5/01,156592469X,iMovie: The Missing Manual,4,36869
+5/5/01,1565925793,Posix Programmer's Guide : Writing Portable Unix Programs With the Posix. 1 Standard,8,36965
+5/5/01,596000855,Samba Pocket Reference,3,36971
+5/5/01,596001487,What You Need to Know When You Can't Find Your Unix System Administrator,4,37182
+5/5/01,1565928431,Networking Personal Computers with TCP/IP: Building TCP/IP Networks (O'Reilly Nutshell),1,37463
+5/5/01,596000685,What You Need to Know When You Can't Find Your Unix System Administrator,5,37724
+5/5/01,1565922255,Oracle PL/SQL Programming Developer's Workbook,8,37758
+5/5/01,596000030,Obsessive-Compulsive Disorder : Help for Children and Adolescents (Patient-Centered Guides),7,37862
+5/5/01,596000154,Sendmail Desktop Reference,4,37960
+5/5/01,1565923359,Transact-SQL Programming,4,38312
+5/5/01,596000367,Practical Internet Groupware,1,38503
+5/5/01,596001215,The Oracle Pl/Sql Cd Bookshelf : 7 Bestselling Books on Cd-Rom,3,38573
+5/5/01,156592746X,Practical Internet Groupware,2,38611
+5/5/01,1565925122,Networking Personal Computers with TCP/IP: Building TCP/IP Networks (O'Reilly Nutshell),1,38650
+5/5/01,1565927524,Managing Mailing Lists,7,38691
+5/5/01,596000197,Programming Web Graphics with Perl & GNU Software (O'Reilly Nutshell),5,38748
+5/5/01,1565924975,User Friendly,3,38846
+5/5/01,1565923901,Programming With Curses (A Nutshell Handbook),1,39024
+5/5/01,596000669,Tcl/Tk Pocket Reference,4,39233
+5/5/01,1565924266,Python Programming on Win 32,4,39515
+5/5/01,596001223,Uml in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),4,39568
+5/5/01,1565922603,Sendmail Desktop Reference,5,40020
+5/5/01,1565924495,Oracle Performance Tuning (Nutshell Handbook),5,40313
+5/5/01,1565922921,Windows Nt User Administration,3,40403
+5/5/01,1565925211,Stopping Spam,5,40581
+5/5/01,1565929489,"Motif Programming Manual (The Definitive Guides to the X Window System, Volume 6A)",6,40609
+5/5/01,1565926994,Colon & Rectal Cancer: A Comprehensive Guide for Patients & Families,1,40640
+5/5/01,1565926005,Posix Programmer's Guide : Writing Portable Unix Programs With the Posix. 1 Standard,5,40745
+5/5/01,1565924649,Developing Asp Components,2,41078
+5/5/01,059600060X,Jini in a Nutshell : A Desktop Quick Reference,2,41106
+5/5/01,1565923227,"Virtual Private Networks, 2nd Edition (O'Reilly Nutshell)",3,41158
+5/5/01,1565921275,Tcl/Tk Pocket Reference,4,41415
+5/5/01,937175900,Oracle PL/SQL Programming Developer's Workbook,6,41470
+5/5/01,1565927206,Perl/Tk Pocket Reference,5,41585
+5/5/01,1565926161,Windows Nt in a Nutshell : A Desktop Quick Reference for System Administrators (Nutshell Handbooks),2,41633
+5/5/01,596000189,Advanced Oracle Pl/Sql : Programming With Packages (Nutshell Handbook),3,42066
+5/5/01,1565924193,Oracle Built-In Packages,4,42653
+5/5/01,1565924177,Volume 8 : X Window System Administrator's Guide,1,42735
+5/5/01,1565926382,Windows Nt in a Nutshell : A Desktop Quick Reference for System Administrators (Nutshell Handbooks),2,42926
+5/5/01,1565926919,Volume 8 : X Window System Administrator's Guide,1,43009
+5/5/01,1565926609,"High Performance Computing (Risc Architectures, Optimization & Benchmarks)",2,43064
+5/5/01,596001339,Writing Word Macros,7,43216
+5/5/01,1565928709,Managing Windows NT Logon,4,43907
+5/5/01,1565926420,Tcl/Tk Tools,1,44001
+5/5/01,1565922220,Oracle Scripts,5,44194
+5/5/01,1565921976,Oracle8 Design Tips,2,44352
+5/5/01,1565920546,"High Performance Computing (Risc Architectures, Optimization & Benchmarks)",9,44406
+5/5/01,1565920902,Volume 8 : X Window System Administrator's Guide,2,44434
+5/5/01,1565927060,DocBook: The Definitive Guide (O'Reilly XML),7,44742
+5/5/01,1565927133,Windows NT File System Internals : A Developer's Guide,5,45076
+5/5/01,1565923472,Programming Web Graphics with Perl & GNU Software (O'Reilly Nutshell),4,45328
+5/5/01,1565925289,Designing With JavaScript : Creating Dynamic Web Pages (Web Review Studio Series),2,45514
+5/5/01,596000324,Designing With JavaScript : Creating Dynamic Web Pages (Web Review Studio Series),5,45603
+5/5/01,1565921488,What You Need to Know When You Can't Find Your Unix System Administrator,4,45724
+5/5/01,1565922948,Windows NT File System Internals : A Developer's Guide,3,46146
+5/5/01,596000251,"Virtual Private Networks, 2nd Edition (O'Reilly Nutshell)",2,46199
+5/5/01,156592858X,Oracle SAP Administration (O'Reilly Oracle),1,46257
+5/5/01,1565924835,Posix. 4 : Programming for the Real World,4,46330
+5/5/01,596001088,Jini in a Nutshell : A Desktop Quick Reference,3,46383
+5/5/01,1565926595,Tcl/Tk in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),2,47495
+5/5/01,156592391X,Oracle Web Applications : Pl/Sql Developer's Introduction,1,47588
+5/5/01,1565927095,"Motif Programming Manual (The Definitive Guides to the X Window System, Volume 6A)",4,47692
+5/5/01,1565925785,Photoshop for the Web,4,47867
+5/5/01,1565927508,Advanced Oracle Pl/Sql : Programming With Packages (Nutshell Handbook),3,47873
+5/5/01,1565926099,Designing With JavaScript : Creating Dynamic Web Pages (Web Review Studio Series),4,47888
+5/5/01,1565925726,Windows NT File System Internals : A Developer's Guide,1,48367
+5/5/01,596001266,"Motif Programming Manual (The Definitive Guides to the X Window System, Volume 6A)",6,48623
+5/5/01,1565923251,X Toolkit Intrinsics Reference Manual for Version 11 of the Window System (Definitive Guides to the X Window System),7,48855
+5/5/01,1565924886,Writing Word Macros,4,49078
+5/5/01,1565927044,Photoshop in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),1,49126
+5/5/01,156592567X,Tcl/Tk Pocket Reference,1,49194
+5/5/01,596000308,Python Programming on Win 32,5,49289
+5/5/01,1565925874,Building Linux Clusters,1,49399
+5/5/01,1565923510,Photoshop in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),3,49427
+5/5/01,1565921526,Oracle PL/SQL Built-Ins Pocket Reference,2,49680
+5/5/01,1565926927,Samba Pocket Reference,11,49948
+5/5/01,596000170,"High Performance Computing (Risc Architectures, Optimization & Benchmarks)",1,50081
+5/5/01,1565929411,Writing Word Macros,4,50579
+5/5/01,1565924347,Oracle Scripts,3,50653
+5/5/01,596000006,Developing Asp Components,3,50736
+5/5/01,1565927087,Creating Effective Javahelp (Java Series (O'Reilly & Associates).),2,50843
+5/5/01,1565927176,Photoshop for the Web,2,51115
+5/5/01,1565924851,GIMP Pocket Reference (O'Reilly Pocket Reference Series),2,51459
+5/5/01,1565924002,Oracle Scripts,4,51528
+5/5/01,1565922689,Managing Windows NT Logon,3,51795
+5/5/01,1565926579,Power Programming With Rpc,4,51875
+5/5/01,596000448,iMovie: The Missing Manual,3,51970
+5/5/01,937175757,Managing Windows NT Logon,6,52124
+5/5/01,937175714,Network Printing: Building Print Services on Heterogeneous Networks,1,52604
+5/5/01,1565925998,Designing and Programming CICS Applications,1,52931
+5/5/01,156592598X,Software Portability With Imake (Nutshell Handbook),4,53247
+5/5/01,1565928628,Managing Ip Networks With Cisco Routers,1,53457
+5/5/01,1565923065,Photoshop for the Web,3,53783
+5/5/01,1565921399,The Cathedral & the Bazaar : Musings on Linux and Open Source by an Accidental Revolutionary,3,54077
+5/5/01,1565929438,Tcl/Tk in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),5,54337
+5/5/01,1565927184,Advanced Oracle Pl/Sql : Programming With Packages (Nutshell Handbook),6,54502
+5/5/01,1565920007,Tcl/Tk in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),3,54891
+5/5/01,1565921321,Network Printing: Building Print Services on Heterogeneous Networks,3,55445
+5/5/01,1565922204,Partial Seizure Disorders: Help for Patients and Families,3,55480
+5/5/01,1565922247,Creating Effective Javahelp (Java Series (O'Reilly & Associates).),3,55519
+5/5/01,1565924533,Creating Effective Javahelp (Java Series (O'Reilly & Associates).),2,55523
+5/5/01,1565925114,MP3: The Definitive Guide,2,55922
+5/5/01,1565927699,Learning Dcom,3,55928
+5/5/01,1565922867,Jini in a Nutshell : A Desktop Quick Reference,6,55956
+5/5/01,1565928504,Motif Reference Manual for Motif 2.1,4,56310
+5/5/01,1565926269,Power Programming With Rpc,1,56811
+5/5/01,1565922743,Oracle PL/SQL Built-Ins Pocket Reference,4,57410
+5/5/01,059600012X,Managing Ip Networks With Cisco Routers,5,57534
+5/5/01,156592455X,Programming With Qt,5,57916
+5/5/01,1565923537,GIMP Pocket Reference (O'Reilly Pocket Reference Series),3,57988
+5/5/01,1565925777,"Cracking DES: Secrets of Encryption Research, Wiretap Politics & Chip Design",2,58158
+5/5/01,1565927532,Outlook Annoyances,7,58285
+5/5/01,1565922697,Java Distributed Computing (O'Reilly Java),3,58380
+5/5/01,1565924037,"Cracking DES: Secrets of Encryption Research, Wiretap Politics & Chip Design",3,58506
+5/5/01,1565925394,Windows NT Event Logging (O'Reilly Nutshell),3,59684
+5/5/01,596001053,Software Portability With Imake (Nutshell Handbook),1,59706
+5/5/01,1565923987,"Optimizing Windows for Games, Graphics and Multimedia",7,59998
+5/5/01,1565929470,Oracle Security,1,60168
+5/5/01,1565924576,Network Printing: Building Print Services on Heterogeneous Networks,2,60537
+5/5/01,1565925254,"X Toolkit Intrinsics Programming Manual for X11, Release 5 (Definitive Guides to the X Window System, Vol 4)",1,60552
+5/5/01,1565925459,"Adolescent Drug & Alcohol Abuse: How to Spot It, Stop It, and Get Help for Your Family",3,60634
+5/5/01,1565923774,Java Distributed Computing (O'Reilly Java),1,60701
+5/5/01,1565924371,Managing Windows NT Registry,3,61171
+5/5/01,1565922476,Xlib Programming Manual,2,61803
+5/5/01,156592116X,Windows Nt User Administration,2,62014
+5/5/01,156592861X,Oracle PL/SQL Built-Ins Pocket Reference,4,62031
+5/5/01,156592729X,Smileys,1,62042
+5/5/01,1565928385,Python Programming on Win 32,4,62721
+5/5/01,1565924894,Building Linux Clusters,1,62873
+5/5/01,1565926277,X Toolkit Intrinsics Reference Manual for Version 11 of the Window System (Definitive Guides to the X Window System),4,63029
+5/5/01,1565923243,Oracle Parallel Processing,3,63107
+5/5/01,1565925165,Xlib Programming Manual,2,63239
+5/5/01,1565924185,Your Child in the Hospital: A Practical Guide for Parents,2,63294
+5/5/01,1565922913,iMovie: The Missing Manual,2,63357
+5/5/01,1565926498,Xlib Programming Manual,4,63443
+5/5/01,1565922611,Inside the Windows 95 File System (Nutshell Handbook),1,63570
+5/5/01,156592486X,GIMP Pocket Reference (O'Reilly Pocket Reference Series),1,63732
+5/5/01,1565924010,Power Programming With Rpc,4,64206
+5/5/01,1565921127,PGP : Pretty Good Privacy,3,64509
+5/5/01,1565923790,Programming With Curses (A Nutshell Handbook),2,64889
+5/5/01,1565924967,MP3: The Definitive Guide,5,64964
+5/5/01,1565924622,Programming With Qt,1,65002
+5/5/01,1565922964,Oracle Distributed Systems,1,65352
+5/5/01,156592665X,Learning Dcom,3,65595
+5/5/01,1565926757,Managing Windows NT Registry,1,65639
+5/5/01,937175730,Oracle Security,1,65940
+5/5/01,1565924797,Oracle Security,4,66613
+5/5/01,1565920376,Windows Nt Workstation Configuration and Maintenance,2,66649
+5/5/01,1565921941,Windows Nt Workstation Configuration and Maintenance,1,66897
+5/5/01,1565926749,Unix in a Nutshell: A Desktop Quick Reference for System V & Solaris 2.0,3,67204
+5/5/01,1565925823,"X Toolkit Intrinsics Programming Manual for X11, Release 5 (Definitive Guides to the X Window System, Vol 4)",5,67422
+5/5/01,1565920740,Java Distributed Computing (O'Reilly Java),4,67441
+5/5/01,1565927117,Checking C Programs With Lint (Nutshell Handbooks for C Program),7,67446
+5/5/01,1565924932,Checking C Programs With Lint (Nutshell Handbooks for C Program),1,67479
+5/5/01,1565925173,Applying Rcs and Sccs : From Source Control to Project Control (Nutshell Handbook),1,67823
+5/5/01,1565925009,Managing Ip Networks With Cisco Routers,4,68112
+5/5/01,1565925238,Outlook Annoyances,1,68751
+5/5/01,596000995,Programming With Qt,1,68867
+5/5/01,1565924029,Xlib Reference Manual/Release 4 and Release 5,5,69205
+5/5/01,1565924843,"MCSE : The Core Exams in a Nutshell, 2nd Ed.",2,69661
+5/5/01,596000472,"MCSE : The Core Exams in a Nutshell, 2nd Ed.",2,69706
+5/5/01,1565926706,"MCSE : The Core Exams in a Nutshell, 2nd Ed.",4,69716
+5/5/01,1565925807,Inside the Windows 95 File System (Nutshell Handbook),1,70864
+5/5/01,1565927141,Oracle Web Applications : Pl/Sql Developer's Introduction,4,71463
+5/5/01,1565921046,Applying Rcs and Sccs : From Source Control to Project Control (Nutshell Handbook),3,71543
+5/5/01,1565926315,Photoshop in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),1,71840
+5/5/01,1565922891,Unix Systems Programming for Svr4 (Nutshell Handbook),4,72069
+5/5/01,1565921151,"Virtual Private Networks, 2nd Edition (O'Reilly Nutshell)",5,72100
+5/5/01,1565924487,Xlib Reference Manual/Release 4 and Release 5,2,72271
+5/5/01,1565922786,Porting Unix Software : From Download to Debug (Nutshell Handbook),2,72421
+5/5/01,156592259X,MP3: The Definitive Guide,2,72902
+5/5/01,1565928490,Inside the Windows 95 File System (Nutshell Handbook),1,73855
+5/5/01,1565926218,Software Portability With Imake (Nutshell Handbook),4,73869
+5/5/01,1565921232,Motif Reference Manual for Motif 2.1,4,74666
+5/5/01,1565927257,Oracle Parallel Processing,2,74672
+5/5/01,1565920163,Applying Rcs and Sccs : From Source Control to Project Control (Nutshell Handbook),1,74951
+5/5/01,1565926730,"Optimizing Windows for Games, Graphics and Multimedia",3,75294
+5/5/01,1565922379,Porting Unix Software : From Download to Debug (Nutshell Handbook),3,75434
+5/5/01,1565927591,MCSE The Core Exams In a Nutshell,2,75471
+5/5/01,1565923006,Unix Systems Programming for Svr4 (Nutshell Handbook),1,75669
+5/5/01,1565926374,Stopping Spam,2,75687
+5/5/01,156592438X,Motif Reference Manual for Motif 2.1,2,75742
+5/5/01,1565922492,Windows NT Event Logging (O'Reilly Nutshell),2,76218
+5/5/01,1565923758,Oracle Distributed Systems,3,76265
+5/5/01,156592312X,"Cracking DES: Secrets of Encryption Research, Wiretap Politics & Chip Design",5,76479
+5/5/01,1565922514,Building Linux Clusters,4,76548
+5/5/01,1565922182,Getting Connected : The Internet at 56K and Up (Nutshell Handbook),1,76562
+5/5/01,937175838,X Toolkit Intrinsics Reference Manual for Version 11 of the Window System (Definitive Guides to the X Window System),2,77543
+5/5/01,1565926765,Childhood Cancer: A Parent's Guide to Solid Tumor Cancers,2,78263
+5/5/01,1565923014,Director in a Nutshell : A Desktop Quick Reference (Nutshell Handbook),4,79377
+5/5/01,1565924789,Xlib Reference Manual/Release 4 and Release 5,2,80868
+5/5/01,1565920074,Smileys,4,81083
+5/5/01,1565924568,Learning Dcom,3,81099
+5/5/01,1565926412,Managing Usenet,2,81118
+5/5/01,1565924983,Oracle Distributed Systems,4,82182
+5/5/01,1565923200,X Window System User's Guide/Osf/Motif 1.2 Edition,1,82321
+5/5/01,1565926544,Managing Usenet,1,82694
+5/5/01,1565922387,Getting Connected : The Internet at 56K and Up (Nutshell Handbook),2,83089
+5/5/01,1565924460,MCSE The Core Exams In a Nutshell,2,83161
+5/5/01,596001312,MCSE The Core Exams In a Nutshell,3,83631
+5/5/01,1565924339,Windows Nt User Administration,1,83644
+5/5/01,1565926617,Managing Windows NT Registry,2,84072
+5/5/01,1565927192,Linux Multimedia Guide,1,84551
+5/5/01,937175773,"X Protocol Reference Manual : Volume Zero for X11, Release 6 (Definitive Guide to X",2,85118
+5/5/01,1565922069,Outlook Annoyances,4,85604
+5/5/01,156592701X,Getting Connected : The Internet at 56K and Up (Nutshell Handbook),2,85836
+5/5/01,1565920023,X Window System User's Guide/Osf/Motif 1.2 Edition,2,86375
+5/5/01,1565920414,X Window System User's Guide/Osf/Motif 1.2 Edition,3,86512
+5/5/01,596000383,Making Informed Medical Decisions: Where to Look and How to Use What You Find,2,86572
+5/5/01,1565928598,"X Toolkit Intrinsics Programming Manual for X11, Release 5 (Definitive Guides to the X Window System, Vol 4)",1,86642
+5/5/01,1565923618,Stopping Spam,1,86825
+5/5/01,1565924509,Understanding Dce (Nutshell Handbook),1,87593
+5/5/01,1565920066,Limited Edition Java Library Set (4-Volume Set),1,87632
+5/5/01,1565927311,Checking C Programs With Lint (Nutshell Handbooks for C Program),2,88162
+5/5/01,1565926250,Smileys,1,89233
+5/5/01,1565923847,Programming With Curses (A Nutshell Handbook),1,89474
+5/5/01,1565925882,Unix Systems Programming for Svr4 (Nutshell Handbook),3,89617
+5/5/01,1565927214,"X Protocol Reference Manual : Volume Zero for X11, Release 6 (Definitive Guide to X",2,94432
+5/5/01,1565921631,termcap & terminfo (O'Reilly Nutshell),1,95391
+5/5/01,1199000647,termcap & terminfo (O'Reilly Nutshell),2,95484
+5/5/01,1565924320,Using and Managing Ppp,1,96428
+5/5/01,1565925297,Oracle Parallel Processing,5,98587
+5/5/01,1565920139,Writing GNU Emacs Extensions: Editor Customizations and Creations with Lisp (O'Reilly Nutshell),1,98862
+5/5/01,1565926870,Mac OS in a Nutshell: A Desktop Quick Reference (O'Reilly),1,99891
+5/5/01,156592200X,Mac OS in a Nutshell: A Desktop Quick Reference (O'Reilly),1,100200
+5/5/01,1565925149,Mac OS in a Nutshell: A Desktop Quick Reference (O'Reilly),1,103219
+5/5/01,156592388X,Life on Wheels: For the Active Wheelchair User,2,121511
+5/5/01,1565921178,Choosing a Wheelchair: A Guide for Optimal Independence,3,125828
+5/5/01,1565920988,DAO Object Model: The Definitive Guide,1,144825
+5/5/01,1565925203,DAO Object Model: The Definitive Guide,1,145133
+5/5/01,1565925815,Autocad 2000 in a Nutshell : A Command Reference Guide,1,158593
+5/5/01,1565923782,Working With Your Doctor : Getting the Healthcare You Deserve (Patient-Centered Guides),2,158983
+5/5/01,1565921542,Autocad 2000 in a Nutshell : A Command Reference Guide,1,163885
+5/5/01,1565925653,Organ Transplants: Making the Most of Your Gift of Life,4,166124
+5/5/01,1565922263,JAVA in a Nutshell - A Desktop Quick Reference,2,186277
+5/5/01,059600107X,JAVA in a Nutshell - A Desktop Quick Reference,1,191318
+5/5/01,1565920155,Running LINUX,1,202751
+5/5/01,937175021,PalmPilot: The Ultimate Guide (First Edition),2,224052
+5/5/01,937175307,PalmPilot: The Ultimate Guide (First Edition),1,228921
+5/5/01,156592083X,Perl Resource Kit,1,246329
+5/5/01,1565925335,Perl Resource Kit,1,246850
+5/5/01,1565926900,Samba Pocket Reference,8,301057
+5/5/01,119900040X,The Insider's Guide to America Online,1,530826
+5/5/01,1199000531,The Insider's Guide to America Online,1,536329
+5/5/01,119900037X,Limited Edition Java Library Set (4-Volume Set),4,794399
+4/21/01,'0596000995,Limited Edition Java Library Set (4-Volume Set),3,961367
