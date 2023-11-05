@@ -46,9 +46,12 @@ class double_pareto_gen(rv_continuous):
 class hypsecant2_gen(rv_continuous):
     """
     Hypsecant2 is a class representing the distribution with pdf
-    $$
-    f(x) = \frac{1}{2} sech^2(x)
-    $$
+   
+    .. math::
+
+    f(x) = x^2 + y^2
+
+
     which is the square of the hyper secant distribution.
 
     Parameters
@@ -76,9 +79,7 @@ class simple_normal_mixture_gen(rv_continuous):
     """
     A mixture of two Gaussian distributions with the same mean but different variances.
     pdf: 
-    $$
-    f(x) = \frac{1}{2} \phi(\frac{x}{1+a}) + \frac{1}{2} \phi(\frac{x}{1-a})
-    $$
+
     where $\phi$ is the standard normal pdf.
     
     Attributes:
@@ -113,9 +114,7 @@ class simple_normal_mixture_gen(rv_continuous):
 class univariate_variance_gamma_gen(rv_continuous):
     """
     A univariate Variance Gamma distribution with pdf:
-    $$
-    f(x) = \frac{{(\alpha^2 - \beta^2)^{\lambda} |x|^{\lambda - 0.5} K_{\lambda - 0.5}(\alpha |x|)}}{{\sqrt{\pi} \Gamma(\lambda) (2\alpha)^{\lambda - 0.5}}} e^{\beta x}
-    $$
+
     where:
     - \(\alpha\) is the scale parameter.
     - \(\beta\) is the skewness parameter.
