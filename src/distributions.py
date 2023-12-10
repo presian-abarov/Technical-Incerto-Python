@@ -42,6 +42,44 @@ class double_pareto_gen(rv_continuous):
         var = pareto.var(b=alpha) + (pareto.mean(b=alpha) - 1) ** 2
         return mean, var, None, None
 
+class double_pareto_gen(rv_continuous):
+    """
+    Double (sided) Pareto distribution
+
+    Parameters
+    ----------
+    alpha : float
+        The shape parameter.
+    """
+    def _argcheck(self, alpha):
+        return alpha > 0
+
+    def _pdf(self, x, alpha):
+        p = np.zeros(len(x))
+        if isinstance(alpha, int) or isinstance(alpha, float):
+            p[x >= 0] = pareto.pdf(1 + x[x >= 0], b=alpha) / 2
+            p[x < 0] = pareto.pdf(1 - x[x < 0], b=alpha) / 2
+        else:
+            p[x >= 0] = pareto.pdf(1 + x[x >= 0], b=alpha[x >= 0]) / 2
+            p[x < 0] = pareto.pdf(1 - x[x < 0], b=alpha[x < 0]) / 2
+        return p
+
+    def _cdf(self, x, alpha):
+        c = np.zeros(len(x))
+        c[x > 0] = pareto.cdf(1 + x[x > 0], b=alpha) / 2 + 0.5
+        c[x < 0] = 0.5 - pareto.cdf(1 - x[x < 0], b=alpha) / 2
+        return c
+
+    def _ppf(self, q, alpha):
+        x = np.zeros(len(q))
+        x[q >= 0.5] = pareto.ppf(2 * (q[q >= 0.5] - 0.5), b=alpha) - 1
+        x[q < 0.5] = 1 - pareto.ppf(2 * (0.5 - q[q < 0.5]), b=alpha)
+        return x
+
+    def _stats(self, alpha):
+        mean = 0
+        var = pareto.var(b=alpha) + (pareto.mean(b=alpha) - 1) ** 2
+        return mean, var, None, None
 
 class hypsecant2_gen(rv_continuous):
     """

@@ -2,10 +2,14 @@
    :maxdepth: 4
    :caption: Contents:
 
-.. automodule:: src.distributions
+.. automodule:: distributions
    :members:
    :noindex:
-   
-.. automodule:: src.stats
+
+.. automodule:: figures
+   :members:
+   :noindex:
+
+.. automodule:: stats
    :members:
    :noindex:
